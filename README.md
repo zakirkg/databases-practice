@@ -39,4 +39,4 @@ Explore:
 
 Conceptually explore reliability problems such as retries, backoff, worker crashes, leases, heartbeats, dead-letter queues, and idempotency. You can also try to implement small snippets for these.
 
-**Implementation:** [`jobqueue/`](jobqueue/)
+**Implementation:** [`jobqueue/`](https://github.com/zakirkg/databases-practice/tree/main/job-queue)
